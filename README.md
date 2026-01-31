@@ -9,7 +9,7 @@ it’s not gambling.
 
 users connect a wallet holding $poope,
 check in once per day,
-and sometimes a flush happens.
+and sometimes you get splashed.
 
 ## why this exists
 crypto lost excitement by asking too much.
